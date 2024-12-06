@@ -18,7 +18,7 @@ function FrontPage() {
                 className="mt-6 px-6 py-3 bg-slate-600 hover:bg-blue-600 text-white font-semibold rounded-lg shadow-md"
                 onClick={() => navigate('/startbtn')}
             >
-                Hello
+                Let's go -->
             </button>
         </div>
     );
